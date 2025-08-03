@@ -3,7 +3,7 @@
 CareNest is an AI-driven healthcare platform designed to support maternal and fetal health. It leverages predictive analytics and advanced machine learning models to assess pregnancy risks, fetal health, and provide personalized care planning.  
 
 ---
-
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ## 🚀 Features  
 
 ### 🔹 Pregnancy Risk Prediction  
